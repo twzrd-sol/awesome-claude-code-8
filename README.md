@@ -155,4 +155,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-**Maintained by [NyxTools](https://github.com/NyxToolsDev)** · LEW Enterprises LLC
+**Maintained by [NyxTools](https://github.com/NyxToolsDev)** · NyxTools
