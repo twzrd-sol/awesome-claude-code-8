@@ -43,6 +43,9 @@ Contributions welcome — see [Contributing](#contributing).
 ### Finance
 - [QuickBooks MCP Server](https://github.com/NyxToolsDev/quickbooks-mcp-server) — Query QuickBooks in plain English (P&L, invoices, expenses)
 
+
+### Web3 Payments
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring for Solana AI agents. Verify wallet identity before x402 micropayments. `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Healthcare
 - [DICOM/HL7 MCP Server](https://github.com/NyxToolsDev/dicom-hl7-mcp-server) — Healthcare interoperability (DICOM queries, HL7 parsing, FHIR)
 
